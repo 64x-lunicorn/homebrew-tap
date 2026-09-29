@@ -1,6 +1,6 @@
 cask "logsquirl" do
-  version "26.07.0"
-  sha256 "f6160cfa0e996de319113f9159d1149611b62d3672cec6861ced64cdfce896aa"
+  version "26.10.0"
+  sha256 "c8f8c9e2fe5b0aabeeef8c60fec2c8e6ec0c8e37db428150542280ac363117d4"
 
   url "https://github.com/64x-lunicorn/LogSquirl/releases/download/v#{version}/logsquirl-mac-arm64.dmg"
   name "LogSquirl"
